@@ -1,4 +1,4 @@
-# Options Greeks Calculator (Beta)
+# Options Greeks Package (Beta)
 
 This repository provides a collection of functions to calculate first, second, and third-order Greeks for options pricing. The package is currently in **beta**, and all functions must be manually copied into your environment. 
 
